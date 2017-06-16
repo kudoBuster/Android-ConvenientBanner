@@ -1,10 +1,8 @@
+## fork后更新说明
+- 20170616 添加自定义PageIndicator距离边界
+
 [![Android Gems](http://www.android-gems.com/badge/saiwu-bigkoo/Android-ConvenientBanner.svg?branch=master)](http://www.android-gems.com/lib/saiwu-bigkoo/Android-ConvenientBanner)
 
-##fork后更新说明
--20170616 添加自定义PageIndicator距离边界
-
-
-原文
 ### config in java code
 
 ```java
